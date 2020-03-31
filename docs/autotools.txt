@@ -50,7 +50,7 @@ The second is online:
   | https://autotools.io/
   | Diego Elio “Flameeyes” Pettenò
 
-His blog, at https://blog.flameeyes.eu/, can also be fairly instructive.
+His blog, at https://flameeyes.blog/, can also be fairly instructive.
 
 .. _`How to fix autotools failures`: http://www.gentoo.org/proj/en/qa/autofailure.xml
 
@@ -67,8 +67,8 @@ Typically, muddle will grumble that::
 
 Useful resources for an explanation include:
 
-* http://blog.flameeyes.eu/2008/06/maintaner-mode
-* http://www.flameeyes.eu/autotools-mythbuster/automake/maintainer.html
+* https://flameeyes.blog/2008/06/13/maintaner-mode/
+* https://autotools.io/automake/maintainer.html
 * http://stackoverflow.com/questions/5731023/autotools-force-make-not-to-rebuild-configure-makefile
 
 There are several things going on that cause the problem:
